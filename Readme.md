@@ -6,4 +6,4 @@
 3 git reset .
 4 git commit
 
-git checkout -- .
+5.- git checkout -- .
